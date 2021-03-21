@@ -1,4 +1,13 @@
-## Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer
+#Python Programm mit MiDaS depth estimation und TFLite Objekterkennung 
+##MiDaS Machine Learning Modelle müssen für Tests noch in dem Root Directory hinzugefügt werden, da sie zu groß fuer GitHub sind
+
+#Referenz zur TFLite Object Detection
+https://www.tensorflow.org/lite/examples/object_detection/overview
+
+#Referenz zum verwendeten TensorFlow Code
+https://github.com/tensorflow/models
+
+##Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer
 
 This repository contains code to compute depth from a single image. It accompanies our [paper](https://arxiv.org/abs/1907.01341v3):
 
